@@ -1,0 +1,12 @@
+body{
+    margin: 0;
+    text-align: center;
+}
+#menu{
+    position: fixed;
+    background-color: bisque;
+    width: 100;
+    margin-top: 0px;
+    padding: 0;
+    top: 0px;
+}
